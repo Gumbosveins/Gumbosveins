@@ -7,6 +7,7 @@ Indie Next.js / Vercel / Polar notes from Iceland. Free go-live write-ups + offl
 - [The Next.js / Vercel production env mistakes that break launches](https://dev.to/gumbosveins/the-nextjs-vercel-production-env-mistakes-that-break-launches-1d8g)
 - [Polar sandbox vs live webhooks — why checkout works and entitlements do not](https://dev.to/gumbosveins/polar-sandbox-vs-live-webhooks-why-checkout-works-and-entitlements-do-not-5gl2)
 - [Build a Vercel env matrix offline before you merge](https://dev.to/gumbosveins/build-a-vercel-env-matrix-offline-before-you-merge-and-stop-shipping-the-wrong-secrets-431a)
+- [Stop pasting Polar webhook secrets into online signature debuggers](https://dev.to/gumbosveins/stop-pasting-polar-webhook-secrets-into-online-signature-debuggers-2inh)
 
 Profile: [dev.to/gumbosveins](https://dev.to/gumbosveins)
 
