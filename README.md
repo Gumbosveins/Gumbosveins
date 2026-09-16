@@ -1,24 +1,16 @@
 # Gumbosveins
 
-Indie Next.js / Vercel / Polar notes from Iceland. Free go-live write-ups + offline tools. Also ships a free browser puzzle.
+Indie apps from Iceland.
 
-## Writing
+## Featured
 
-- [The Next.js / Vercel production env mistakes that break launches](https://dev.to/gumbosveins/the-nextjs-vercel-production-env-mistakes-that-break-launches-1d8g)
-- [Polar sandbox vs live webhooks — why checkout works and entitlements do not](https://dev.to/gumbosveins/polar-sandbox-vs-live-webhooks-why-checkout-works-and-entitlements-do-not-5gl2)
-- [Build a Vercel env matrix offline before you merge](https://dev.to/gumbosveins/build-a-vercel-env-matrix-offline-before-you-merge-and-stop-shipping-the-wrong-secrets-431a)
-- [Stop pasting Polar webhook secrets into online signature debuggers](https://dev.to/gumbosveins/stop-pasting-polar-webhook-secrets-into-online-signature-debuggers-2inh)
+**[Would You For Cash?](https://apps.apple.com/app/would-you-for-cash/id6759262761)** — party card game for iPhone. Free Classic deck + premium IAP decks. No ads, no tracking. 17+.
 
-Profile: [dev.to/gumbosveins](https://dev.to/gumbosveins)
+Landing: https://gumbosveins.github.io/would-you-for-cash/
 
-## Kits (one-time Polar downloads)
+Support: gumbosveins@gmail.com
 
-| Kit | Price | Buy | Page |
-| --- | --- | --- | --- |
-| Next.js / Vercel Production Launch Kit | $19 | [Polar](https://buy.polar.sh/polar_cl_uxzixqNM81nkPoIW3um9aacYzAmA1bXQbWqUe3EQE75) | [GitHub Pages](https://gumbosveins.github.io/nextjs-vercel-launch-kit/) |
-| Deploy Guard — Offline Env Matrix | $12 | [Polar](https://buy.polar.sh/polar_cl_fXjUOUonsouTBvvQLXBVvd1VdA2hVaw6LeBi32fuIjc) | [GitHub Pages](https://gumbosveins.github.io/deploy-guard/) |
-| Dual-Mode Webhook Lab | $14 | [Polar](https://buy.polar.sh/polar_cl_6k1TwXMqdt8hiPyOxPrAZCLbKIfYmkeBzUUXw1QggrO) | [GitHub Pages](https://gumbosveins.github.io/dual-mode-webhook-lab/) |
+## Also
 
-## Game
-
-[Loopdrop](https://gumbosveins.github.io/loopdrop/) — free conveyor color-drop puzzle (browser, no account).
+- [Loopdrop](https://gumbosveins.github.io/loopdrop/) — free browser puzzle
+- [Dev.to writing](https://dev.to/gumbosveins) — Next.js / Vercel / Polar notes
