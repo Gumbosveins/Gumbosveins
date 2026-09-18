@@ -4,7 +4,7 @@ Indie apps from Iceland.
 
 ## Featured
 
-**[Would You For Cash?](https://apps.apple.com/app/would-you-for-cash/id6759262761)** — party card game for iPhone. Free Classic deck + premium IAP decks. No ads, no tracking. 17+.
+**[Would You For Cash?](https://apps.apple.com/app/would-you-for-cash/id6759262761)**. Party card game for iPhone. Free Classic deck + premium IAP decks. No ads, no tracking. 17+.
 
 Landing: https://gumbosveins.github.io/would-you-for-cash/
 
@@ -30,4 +30,4 @@ Profile: [dev.to/gumbosveins](https://dev.to/gumbosveins)
 
 ## Also
 
-- [Loopdrop](https://gumbosveins.github.io/loopdrop/) — free browser puzzle
+- [Loopdrop](https://gumbosveins.github.io/loopdrop/). Free browser puzzle
