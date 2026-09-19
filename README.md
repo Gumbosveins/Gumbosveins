@@ -17,6 +17,7 @@ Support: gumbosveins@gmail.com
 - [Build a Vercel env matrix offline before you merge](https://dev.to/gumbosveins/build-a-vercel-env-matrix-offline-before-you-merge-and-stop-shipping-the-wrong-secrets-431a)
 - [Stop pasting Polar webhook secrets into online signature debuggers](https://dev.to/gumbosveins/stop-pasting-polar-webhook-secrets-into-online-signature-debuggers-2inh)
 - [The Checkout Is Not the Entitlement](https://dev.to/gumbosveins/the-checkout-is-not-the-entitlement-2fd3)
+- [Polar Access Tokens Do Not Belong in NEXT_PUBLIC_](https://dev.to/gumbosveins/polar-access-tokens-do-not-belong-in-nextpublic-511b)
 
 Profile: [dev.to/gumbosveins](https://dev.to/gumbosveins)
 
