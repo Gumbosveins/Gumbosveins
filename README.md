@@ -1,3 +1,4 @@
+
 # Gumbosveins
 
 Indie apps from Iceland.
@@ -19,6 +20,7 @@ Support: gumbosveins@gmail.com
 - [The Checkout Is Not the Entitlement](https://dev.to/gumbosveins/the-checkout-is-not-the-entitlement-2fd3)
 - [Polar Access Tokens Do Not Belong in NEXT_PUBLIC_](https://dev.to/gumbosveins/polar-access-tokens-do-not-belong-in-nextpublic-511b)
 - [Expired Polar Checkout Sessions Are Not Failed Payments](https://dev.to/gumbosveins/expired-polar-checkout-sessions-are-not-failed-payments-bdj)
+- [Preview Hostnames Are Not Webhook Endpoints](https://dev.to/gumbosveins/preview-hostnames-are-not-webhook-endpoints-42fo)
 
 Profile: [dev.to/gumbosveins](https://dev.to/gumbosveins)
 
