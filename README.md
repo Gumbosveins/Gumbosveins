@@ -22,6 +22,7 @@ Support: gumbosveins@gmail.com
 - [Expired Polar Checkout Sessions Are Not Failed Payments](https://dev.to/gumbosveins/expired-polar-checkout-sessions-are-not-failed-payments-bdj)
 - [Preview Hostnames Are Not Webhook Endpoints](https://dev.to/gumbosveins/preview-hostnames-are-not-webhook-endpoints-42fo)
 - [Auth Middleware Should Not Guard Payment Webhooks](https://dev.to/gumbosveins/auth-middleware-should-not-guard-payment-webhooks-n72)
+- [Polar Product IDs From Sandbox Do Not Work in Production](https://dev.to/gumbosveins/polar-product-ids-from-sandbox-do-not-work-in-production-2dl9)
 
 Profile: [dev.to/gumbosveins](https://dev.to/gumbosveins)
 
